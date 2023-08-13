@@ -1,4 +1,4 @@
-## [Image Segmentation, Filtering, and Region Analysis](https://www.coursera.org/learn/image-segmentation?specialization=image-processing)\
+## [Image Segmentation, Filtering, and Region Analysis](https://www.coursera.org/learn/image-segmentation?specialization=image-processing)
 
 ### Modules List
 
