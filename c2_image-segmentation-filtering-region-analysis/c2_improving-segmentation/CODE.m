@@ -49,3 +49,4 @@ coinImage = imread("coins.png");
 [BW, mask] = segmentImageQ4(coinImage);
 
 imshow(BW)
+
